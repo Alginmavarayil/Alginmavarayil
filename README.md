@@ -1,5 +1,5 @@
 # 💫 About Me:
-cyber security engineer<br>tech-enthusiast<br>Certified Penetration Tester (CPT)<br>Exploring the path of offensive and defensive cyber security<br>survival programmer 
+cyber security engineer<br> Vibe coder<br>tech-enthusiast<br>Certified Penetration Tester (CPT)<br>Exploring the path of offensive and defensive cyber security<br>survival programmer 
 
 
 # 💻 Tech Stack:
